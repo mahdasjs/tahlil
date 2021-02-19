@@ -1,0 +1,176 @@
+.backgroundcolor{
+  background-color: #f0f0f0 ;
+  background-repeat: repeat-y;
+  background-position:center
+
+}
+.homepage{
+  position: absolute;
+  width: 68%;
+  height: 100%;
+  margin-top: 60px;
+  margin-left: 245px;
+}
+.searchresult{
+  position: absolute;
+  width: 93%;
+  height: 100%;
+  margin-top: 70px;
+  margin-left: 70px;
+}
+.postScroll{
+  position: absolute;
+  width: 60%;
+  margin-left:100px;
+}
+.createplaylist{
+  display: flex;
+  position: fixed;
+  z-index: 10000;
+  top: 550px;
+  left: 900PX;
+}
+.tplaylists{
+  width: 105%;
+margin-top: 0px;
+}
+
+.songs{
+position: absolute;
+padding: 5 ;
+margin-left:20;
+width:50%;
+height:400px
+}
+.info
+{
+position: absolute;
+margin-left: 0;
+height: 400px;
+padding: 10 ;
+width:50%
+}
+.search{
+  position: absolute;
+  width: 78%;
+  height: 100%;
+  margin-top: 40px;
+  margin-left: 245px;
+}
+.searchicon{
+position: relative;
+left: 40px;
+height: 400px;
+padding: 10 ;
+width: 5%;
+}
+.playlistpopup{
+display: table;
+margin-right: auto;
+margin-left: auto;
+margin-top: 10%;
+}
+.container input {
+height: 5px;
+padding: 0px 5px;
+color: aliceblue;
+
+}
+
+.container label {
+height: 5px;
+top: -6px;
+color: aliceblue;
+}
+
+.container label[data-shrink="true"] {
+top: 0;
+color: aliceblue;
+}
+
+.postsSongs{
+  position: absolute;
+
+  width: 44%;
+  height: 32.8%;
+  margin-top: -0px;
+  margin-left: 145px;
+}
+.Image-songs{
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 10px;
+}
+.display{
+  display: none;
+}
+              
+@media (max-width: 1200px) {
+
+  .tplaylists{
+    width: 95%;
+  margin-top: 0px;
+  }
+  .postScroll{
+    position: absolute;
+    width: 100%;
+    margin-left: 0px;
+  }
+  .postsSongs{
+    position: absolute;
+  
+    width: 44%;
+    height: 32.8%;
+    margin-top: -30px;
+    margin-left: -190px;
+  }
+  .Image-songs{
+    display: flex;
+    padding: 10px;
+  }
+  .Topspotifymusicscroll{
+    display: none;
+  }
+  .homepage {
+    position: absolute;
+    width: 90%;
+    display: inline-block;
+    margin-top: -35px;
+    margin-left: 15px;
+    margin-right: 15px;
+
+  }
+  .tplaylists{
+    margin-top: 50px;
+  }
+  .search{
+    position: absolute;
+    width: 90%;
+    display: inline-block;
+    margin-top: -20px;
+    margin-left: 15px;
+    margin-right: 15px;
+
+  }
+  .searchicon{
+    position: relative;
+    left: 85%;
+    width: 5%;
+  }
+  .playlistpopup{
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50%;
+  }
+  .Topspotifymusicscroll{
+    margin: auto;
+  }
+  .searchresult{
+    position: absolute;
+    margin-right: 30px;
+    margin-left: 15px;
+    width: 90%;
+    top: 0px;
+  }
+}

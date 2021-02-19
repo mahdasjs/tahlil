@@ -1,0 +1,33 @@
+form {
+  width: 100%;
+}
+
+.logBox {
+  width: 300px;
+  height: 430px;
+  border: 5px solid rgb(48, 63, 159, 0.8);
+  text-align: center;
+  position: relative;
+  padding: 20px;
+  margin-top: -10px;
+}
+.button {
+  font-size: 14px;
+  color: rgb(48, 63, 159, 0.8) !important;
+}
+
+.loginSubmit {
+  margin: 25px 0 15px 0;
+  color: rgb(158, 115, 158);
+  
+}
+.submlog{
+  margin-top: 40px;
+
+}
+
+@media screen and (max-width: 550px) {
+  .logBox {
+    width: 84%;
+  }
+}

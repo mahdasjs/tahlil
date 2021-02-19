@@ -1,0 +1,141 @@
+.ph {
+  text-align: center;
+  margin-right: 200px;
+}
+.pro{
+  position: absolute;
+  width: 70%;
+  height: 100%;
+  margin-top: 60px;
+  margin-left: 238px;
+}
+.Profileposts{
+  position: absolute;
+  width: 100%;
+  margin-left:0px;
+}
+
+.md {
+  margin-left: 36%;
+  margin-top: -80px;
+  /* margin-top: -80px; */
+}
+.mh {
+  margin-left: 40%;
+  margin-top: 10%; 
+}
+.txt {
+  text-align: center;
+  font-size: 20px;
+}
+.status {
+  width: 162px !important;
+}
+.namm {
+  font-size: 15 !important;
+  width: 165px !important;
+  height: 40px !important;
+}
+.nammbio{
+  font-size: 15 !important;
+  width: 335px !important;
+  height: 40px !important;
+}
+.Profileposts{
+  position: absolute;
+  width: 59%;
+  margin-left: 10%;
+}
+
+.switch{
+margin-top: -10px;
+font-size: 15 !important;
+}
+
+.postPlayer {
+  position: fixed;
+  z-index: 100000;
+  left: 0px;
+  bottom: -60px;
+}
+.story{
+  margin-left: 10px;
+  font-family: "Roboto";
+}
+.profile {
+  position: absolute;
+  width: 59%;
+  height: 100%;
+  margin-left: 5px;
+}
+.reg {
+  margin-left: 10px;
+}
+.buttongp{
+  margin-left: 220px;
+}
+.req{
+  top: -20px;
+  margin-left: 610px;
+}
+.avatar{
+  position: absolute;
+  top: -20px;
+  left: -20px;
+}
+@media (max-width: 961px) {
+  .buttongp{
+    margin-left: 0px;
+  }
+  .namm {
+    font-size: 10 !important;
+    width: 165px !important;
+    height: 40px !important;
+  }
+  .nammbio{
+    font-size: 15 !important;
+    width: 337px !important;
+    height: 40px !important;
+  }
+  .pro {
+    position: absolute;
+    margin-right: 15px;
+    margin-left: -2px;
+    width: 94%;
+    top: 0px;
+  }
+  .Profileposts{
+    position: absolute;
+    width: 100%;
+    margin-left: 15px;
+  }
+
+}
+@media (max-width: 550px) {
+  .img{
+    width:200px;
+  }
+  .nammbio{
+    font-size: 15 !important;
+    width: 207px !important;
+    height: 40px !important;
+  }
+  .namm {
+    font-size: 10 !important;
+    width: 100px !important;
+    height: 40px !important;
+  }
+  .md {
+    margin-left: 30%;
+    /* margin-top: -2%; */
+    /* margin-top: -80px; */
+  }
+  .switch{
+    margin-right: 50px;
+    font-size: 15 !important;
+    }
+  .mh {
+    margin-left: 36%;
+    margin-top: 15%;
+  }
+}

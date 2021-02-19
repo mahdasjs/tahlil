@@ -1,0 +1,67 @@
+form {
+  width: 100%;
+}
+
+.loginBox {
+  width: 300px;
+  height: 603px;
+  text-align: center;
+  position: relative;
+ 
+  /* left: 50%; */
+  /* transform: translate(-64%, -20%); */
+  padding: 20px;
+  border: 5px solid rgb(48, 63, 159, 0.8);
+}
+.nam {
+  width: 130px !important;
+  margin-top: -15px;
+  font-size:10;
+}
+.nam1{
+  margin-top: -15px;
+}
+.signUpSubmit {
+  margin: 25px 0 15px 0;
+  size:10px ;
+
+}
+
+.pwStrRow {
+  width: 63%;
+  text-align: left;
+  margin: auto;
+  padding: 0;
+  font-size: 12px;
+  
+}
+
+.pwStrWeak {
+  display: inline-block;
+  position: relative;
+  left: 0;
+  padding: 0;
+  margin: 0;
+  color: gray;
+}
+
+.pwStrStrong {
+  display: inline-block;
+  position: relative;
+  left: 77%;
+  padding: 0;
+  margin: 0;
+  color: gray;
+}
+
+@media screen and (max-width: 550px) {
+  .loginBox {
+    width: 84%;
+  }
+  
+  .nam {
+    width: 127px !important;
+    margin-top: -15px;
+    font-size:10;
+  }
+}

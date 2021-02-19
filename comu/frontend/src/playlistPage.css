@@ -1,0 +1,97 @@
+.playlistpage{
+  position: absolute;
+  width: 78%;
+  height: 100%;
+  margin-top:70px;
+  margin-left: 245px;
+}
+.fabs{
+  position: absolute;
+  height: 100%;
+  margin-top:-18px;
+}
+.playlistSongs{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin-top:-70px !important;
+  margin-left: 245px;
+}
+.title{
+  word-break: break-all;
+  width: 100%;
+  padding: 10px;
+}
+.tags{
+  font-size: 5;
+}
+.songs{
+  position: absolute;
+  height:430px;
+  width: 50%;
+  margin-bottom: 20px;
+}
+.info
+{
+  position: absolute;
+  height:430px;
+  width:50%
+
+}
+.filled{
+  position: relative;
+  left: -30px !important;
+  top: 27px !important;
+}
+.filled input {
+  height: 35px;
+  padding: 0px 5px;
+  color: black;
+  
+  }
+
+  .filled label {
+  height: 0px;
+  top: -10px;
+  color: black;
+  }
+  
+@media (max-width: 960px) {
+    .playlistpage {
+      position: absolute;
+      width: 90%;
+      margin-top: 0px;
+      margin-left: 15px;
+
+    }
+    .fabs{
+      display: none;
+    }
+    .playlistSongs{
+      position: relative;
+      width: 100%;
+      height: 100%;
+      margin-top:0px !important;
+      margin-left: 245px;
+    }
+    .songs{
+      position: relative;
+      width:100%;
+      height:430px;
+    }
+    .info{
+      position: relative;
+      height:430px;
+      width:100%;
+      margin-bottom: 50px;
+    }
+    .Image-Title{
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .filled{
+      position: absolute;
+      left: 100px !important;
+      top: 40px;
+    }
+  }

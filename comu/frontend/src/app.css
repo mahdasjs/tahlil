@@ -1,0 +1,14 @@
+.bottombar{
+    display: none;
+}
+.navbar{
+    display: block;
+}
+@media (max-width: 960px) {
+    .navbar{
+        display: none;
+    }
+    .bottombar{
+        display: block;
+    }
+}
