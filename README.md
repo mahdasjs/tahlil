@@ -7,11 +7,20 @@
 <br>
 
 ## Login View
+<img width="914" alt="1" src="https://user-images.githubusercontent.com/45814320/127336773-eda89a16-f4f2-4034-a67a-aa5e43d65aa6.PNG">
+
 ## Home View
+<img width="960" alt="homepage" src="https://user-images.githubusercontent.com/45814320/127336713-7f6da884-00d4-4694-b27d-ef896932a293.PNG">
+
 ## Profile View
+<img width="946" alt="profile" src="https://user-images.githubusercontent.com/45814320/127336740-ae92933a-68eb-4266-bc36-1bb9238dc62b.PNG">
+
 ## Search View
+<img width="946" alt="search" src="https://user-images.githubusercontent.com/45814320/127336846-489b032d-75c3-4d06-b6de-8c248b592b30.PNG">
+
 ## Edit Profile View 
 <img width="947" alt="Capture" src="https://user-images.githubusercontent.com/45814320/127335756-d4fc68a9-c9c8-42bd-9c21-a0bc99f61946.PNG">
+
 ## Post View
 <img width="960" alt="post" src="https://user-images.githubusercontent.com/45814320/127335775-fb83db56-7591-4d87-934e-37171a370018.PNG">
 
