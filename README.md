@@ -1,3 +1,6 @@
+<img width="947" alt="Capture" src="https://user-images.githubusercontent.com/45814320/127335756-d4fc68a9-c9c8-42bd-9c21-a0bc99f61946.PNG">
+<img width="960" alt="post" src="https://user-images.githubusercontent.com/45814320/127335775-fb83db56-7591-4d87-934e-37171a370018.PNG">
+<img width="937" alt="playlist" src="https://user-images.githubusercontent.com/45814320/127335792-8a257c7f-452c-4f47-b100-9658c0a3983d.PNG">
 #COMU (collections of music)
 
 
@@ -11,7 +14,7 @@
 
 | Edit Profile View | Post View | Playlist View |
 |--|--|--|
-| <img src="https://imgur.com/bjrhXV3" width=250px> |  <img src="https://imgur.com/bjrhXV3" width=250px> | <img src="https://imgur.com/bjrhXV3" width=250px> |
+| <img src="https://user-images.githubusercontent.com/45814320/127335756-d4fc68a9-c9c8-42bd-9c21-a0bc99f61946.PNG" width=250px> |  <img src="https://user-images.githubusercontent.com/45814320/127335775-fb83db56-7591-4d87-934e-37171a370018.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127335792-8a257c7f-452c-4f47-b100-9658c0a3983d.PNG" width=250px> |
 
 
  - Login View : Create User And Login.
