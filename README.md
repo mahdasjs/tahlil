@@ -5,7 +5,7 @@
 
 | Login View | Home View | Profile View |  Search View |
 |--|--|--|--|
-| <img src= "https://i.ibb.co/Vj26j1V/1.png" width=250px> | <img src="https://imgur.com/bjrhXV3" width=250px> | <img src="https://imgur.com/bjrhXV3" width=250px> |<img src="https://imgur.com/bjrhXV3" width=250px> | 
+| <img src= "https://i.ibb.co/Vj26j1V/1.png" > | <img src="https://imgur.com/bjrhXV3" width=250px> | <img src="https://imgur.com/bjrhXV3" width=250px> |<img src="https://imgur.com/bjrhXV3" width=250px> | 
 
 | Edit Profile View | Post View | Playlist View |
 |--|--|--|
