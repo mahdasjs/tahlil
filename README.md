@@ -1,11 +1,13 @@
 #COMU (collections of music)
 
+
+
 ### Simple Music Social Network
 <br>
 
 | Login View | Home View | Profile View |  Search View |
 |--|--|--|--|
-| <img src= "https://user-images.githubusercontent.com/45814320/127334882-d98ffc33-18d2-4113-8fa6-f0003484e1ee.PNG" width=250px> | <img src="https://imgur.com/bjrhXV3" width=250px> | <img src="https://imgur.com/bjrhXV3" width=250px> |<img src="https://imgur.com/bjrhXV3" width=250px> | 
+| <img src= "https://user-images.githubusercontent.com/45814320/127334882-d98ffc33-18d2-4113-8fa6-f0003484e1ee.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127335079-d9d5dfee-6eb2-415a-b92c-0575dd8b714f.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127335266-97fdeff9-9cae-4019-8315-38f66be85135.PNG" width=250px> |<img src="https://user-images.githubusercontent.com/45814320/127335449-07c6274c-986e-4db5-959c-52e84db8d7c5.PNG" width=250px> | 
 
 | Edit Profile View | Post View | Playlist View |
 |--|--|--|
