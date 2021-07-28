@@ -30,7 +30,7 @@
 ## Responsive Mode
 | Home View | Profile View | Post View | Playlist View |
 |--|--|--|--|
-| <img src="https://user-images.githubusercontent.com/45814320/127339238-39ca43cc-3866-4e73-b285-c72eb642b921.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127339271-76f2152e-d7f1-487f-a3b6-0f2685ebc14a.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127339313-6c5f7312-9428-4398-90f4-10e7ca2b1831.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127339324-840f8f6d-7300-4968-b3a3-5414ba7583e6.PNG" width=250px> |
+| <img src="https://user-images.githubusercontent.com/45814320/127340109-8d96d152-c978-41e1-9205-15ad9aa89fb4.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127340080-2fa2ca62-ae5a-4f96-8fe4-b4447013195d.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127340046-f126bca0-c088-442b-bbae-a6884d376a4f.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127340127-d1b19c11-8bc1-4777-a2d2-5ea305f47ce7.PNG" width=250px> |
 
  - Login View : Create User And Login.
  - Home View :  This Page has Four Sections As Top 10 Tracks, Top 10 Playlists Based On Spotify And SoundCloud API, Stories, Posts. 
