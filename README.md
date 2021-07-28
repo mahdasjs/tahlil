@@ -28,6 +28,7 @@
 <img width="937" alt="playlist" src="https://user-images.githubusercontent.com/45814320/127335792-8a257c7f-452c-4f47-b100-9658c0a3983d.PNG">
 
 ## Responsive Mode
+
 | Home View | Profile View |
 |--|--|
 | <img src="https://user-images.githubusercontent.com/45814320/127338276-94a905aa-b524-4635-8e44-7f238a9ef796.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127335266-97fdeff9-9cae-4019-8315-38f66be85135.PNG" width=250px> |
