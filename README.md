@@ -2,7 +2,8 @@
 
 ### Simple Music Social Network
 <br>
-
+| Login View | 
+| <img src= "https://i.ibb.co/Vj26j1V/1.png" > |
 | Login View | Home View | Profile View |  Search View |
 |--|--|--|--|
 | <img src= "https://i.ibb.co/Vj26j1V/1.png" > | <img src="https://imgur.com/bjrhXV3" width=250px> | <img src="https://imgur.com/bjrhXV3" width=250px> |<img src="https://imgur.com/bjrhXV3" width=250px> | 
