@@ -27,13 +27,13 @@
 ## Playlist View
 <img width="937" alt="playlist" src="https://user-images.githubusercontent.com/45814320/127335792-8a257c7f-452c-4f47-b100-9658c0a3983d.PNG">
 
-| Login View | Home View | Profile View |  Search View |
-|--|--|--|--|
-| <img src= "https://user-images.githubusercontent.com/45814320/127334882-d98ffc33-18d2-4113-8fa6-f0003484e1ee.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127335079-d9d5dfee-6eb2-415a-b92c-0575dd8b714f.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127335266-97fdeff9-9cae-4019-8315-38f66be85135.PNG" width=250px> |<img src="https://user-images.githubusercontent.com/45814320/127335449-07c6274c-986e-4db5-959c-52e84db8d7c5.PNG" width=250px> | 
-
-| Edit Profile View | Post View | Playlist View |
-|--|--|--|
-| <img src="https://user-images.githubusercontent.com/45814320/127335756-d4fc68a9-c9c8-42bd-9c21-a0bc99f61946.PNG" width=250px> |  <img src="https://user-images.githubusercontent.com/45814320/127335775-fb83db56-7591-4d87-934e-37171a370018.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127335792-8a257c7f-452c-4f47-b100-9658c0a3983d.PNG" width=250px> |
+## Responsive Mode
+| Home View | Profile View |
+|--|--|
+| <img src="https://user-images.githubusercontent.com/45814320/127338276-94a905aa-b524-4635-8e44-7f238a9ef796.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127335266-97fdeff9-9cae-4019-8315-38f66be85135.PNG" width=250px> |
+| Post View | Playlist View |
+|--|--|
+| <img src="https://user-images.githubusercontent.com/45814320/127338239-0537c373-3c60-447b-9486-254cbb98bac8.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127338274-7a2ee9f5-2163-4605-893d-eae215cb5c53.PNG" width=250px> |
 
 
  - Login View : Create User And Login.
