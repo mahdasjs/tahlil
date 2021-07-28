@@ -28,14 +28,9 @@
 <img width="937" alt="playlist" src="https://user-images.githubusercontent.com/45814320/127335792-8a257c7f-452c-4f47-b100-9658c0a3983d.PNG">
 
 ## Responsive Mode
-
-| Home View | Profile View |
-|--|--|
-| <img src="https://user-images.githubusercontent.com/45814320/127338276-94a905aa-b524-4635-8e44-7f238a9ef796.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127335266-97fdeff9-9cae-4019-8315-38f66be85135.PNG" width=250px> |
-| Post View | Playlist View |
-|--|--|
-| <img src="https://user-images.githubusercontent.com/45814320/127338239-0537c373-3c60-447b-9486-254cbb98bac8.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127338274-7a2ee9f5-2163-4605-893d-eae215cb5c53.PNG" width=250px> |
-
+| Home View | Profile View | Post View | Playlist View |
+|--|--|--|--|
+| <img src="https://user-images.githubusercontent.com/45814320/127339238-39ca43cc-3866-4e73-b285-c72eb642b921.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127339271-76f2152e-d7f1-487f-a3b6-0f2685ebc14a.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127339313-6c5f7312-9428-4398-90f4-10e7ca2b1831.PNG" width=250px> | <img src="https://user-images.githubusercontent.com/45814320/127339324-840f8f6d-7300-4968-b3a3-5414ba7583e6.PNG" width=250px> |
 
  - Login View : Create User And Login.
  - Home View :  This Page has Four Sections As Top 10 Tracks, Top 10 Playlists Based On Spotify And SoundCloud API, Stories, Posts. 
